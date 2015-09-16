@@ -1,0 +1,13 @@
+﻿ver. 0.1.0.3:
+ - dodanie usuwania plików *.tmp - jednak bez checkbox'a
+ver. 0.1.0.2:
+ - poprawka z kasowaniem plików.
+ver. 0.1.0.1:
+ - Dodano ikonę programu.
+ - Zmodyfikowano trochę okienko "O programie".
+ - Stworzono instalator.
+ - Dodano opcję odinstalowania programu :).
+ - Zablokowano możliwość powiększenia programu do pełnego ekranu.
+ver. 0.1.0.0:
+ - Podstawowa wersja
+ - Stworzono ten plik, który właśnie przeglądasz.
